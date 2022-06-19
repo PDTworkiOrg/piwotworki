@@ -25,8 +25,8 @@ Jeśli ma to sens, dodaj zrzuty ekranu, które tobie pomogą opisać napotkany p
 **Wersja aplikacji**:  0.1.12
 
 **Komórka (proszę o wypełnienie na jakim urządzeniu otworzyłeś aplikację):**
- - Model: [e.g. Xiaomi Mi Mix 2s]
- - System: [e.g. Android 10]
+ - Model: [np. Xiaomi Mi Mix 2s]
+ - System: [np. Android 10]
 
 **Dodatkowe informacje**
 --
