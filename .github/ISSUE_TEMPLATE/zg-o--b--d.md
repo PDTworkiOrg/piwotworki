@@ -4,29 +4,35 @@ about: Opisz błąd w jego sprawnego naprawienia
 title: "[BUG]"
 labels: ''
 assignees: ''
-
 ---
 
-**Opisz błąd**
-Krótki opis na czym polega błąd, czym się objawia, jak go rozpoznać.
+**Aby zreprodukować...**
 
-**Aby zreprodukować**
-Kroki potrzebne do powtórzenia zachowania:
+<!-- Rozpisz kroki potrzebne do powtórzenia błędnego zachowania aplikacji, np.:
 1. Idz do '...' (przepisu, warki, ustawień, itp)
-2. Kliknij  '....'
-3. Pojawia się bład.
+2. Kliknij przycisk '....' -->
+
+**Co się dzieje?**
+
+<!-- Napisz na czym polega błędna zachowanie aplikacji po wykonaniu kroków w powyższym pytaniu, np. "pojawia się błędna wartość słodów" albo "aplikacja zamyka się niespodziewanie" -->
 
 **Spodziewane zachowanie**
-Opisz jak tobie się wydaje aplikacja powinna się zachować.
+
+<!-- Napisz jak wg Ciebie powinno wyglądać poprawne zachowanie aplikacji -->
 
 **Zrzuty ekranu**
-Jeśli ma to sens, dodaj zrzuty ekranu, które tobie pomogą opisać napotkany problem.
 
-**Wersja aplikacji**:  0.1.12
+<!-- Możesz doać zrzuty ekranu, które pomogą Ci opisać napotkany problem -->
+
+**Wersja aplikacji**:
+
+<!-- Wersję aplikacji znajdziesz wewnątrz aplikacji pod Menu Głównym lub w ustawieniach systemu Android (w sekcji Aplikacje) -->
 
 **Komórka (proszę o wypełnienie na jakim urządzeniu otworzyłeś aplikację):**
  - Model: [np. Xiaomi Mi Mix 2s]
- - System: [np. Android 10]
+ - Wersja system Android: [np. Android 10]
+
 
 **Dodatkowe informacje**
---
+
+<!-- Jeśli chciałbyś dodać coś jeszcze, możesz to zrobić tutaj -->
